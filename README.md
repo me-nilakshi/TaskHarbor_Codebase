@@ -3,16 +3,18 @@ TaskHarbor is a robust freelance marketplace platform designed to connect freela
 
 ## Owner Information
 
-### Name :  Nilakshi Neel
+### Name :  
+Nilakshi Neel
 
-### College :  IIT (ISM) Dhanbad
-
+### College :  
 IIT (ISM) Dhanbad, India
 
-### Contact :  21je0604@iitism.ac.in
+### Contact :  
+21je0604@iitism.ac.in
 
 
-### Alternate Contact :  iamnilakshi7925@gmail.com
+### Alternate Contact :  
+iamnilakshi7925@gmail.com
 
 
 ### Project Category :
