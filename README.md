@@ -10,11 +10,11 @@ Nilakshi Neel
 IIT (ISM) Dhanbad, India
 
 ### Contact :  
-21je0604@iitism.ac.in
+iamnilakshi7925@gmail.com
 
 
 ### Alternate Contact :  
-iamnilakshi7925@gmail.com
+21je0604@iitism.ac.in
 
 
 ### Project Category :
