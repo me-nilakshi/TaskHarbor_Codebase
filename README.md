@@ -1,18 +1,18 @@
 # TaskHarbor_Codebase
-Homely is an online food ordering web application that is made using React.JS as a frontend library and Context API is used for state management of the application. It enables users to add items to their cart and proceed to checkout seamlessly.
+TaskHarbor is a robust freelance marketplace platform designed to connect freelancers with clients seeking various services. Built using modern web technologies, including React.JS for the frontend, Node.JS and Express.JS for the backend, and MongoDB as the database, TaskHarbor offers a seamless and efficient environment for freelancers and clients to collaborate
 
 ## Owner Information
 
-### Name :
+### Name :  Nilakshi Neel
 
-### College :
+### College :  IIT (ISM) Dhanbad
 
-IIT(ISM) Dhanbad, India
+IIT (ISM) Dhanbad, India
 
-### Contact :
+### Contact :  21je0604@iitism.ac.in
 
 
-### Alternate Contact :
+### Alternate Contact :  iamnilakshi7925@gmail.com
 
 
 ### Project Category :
